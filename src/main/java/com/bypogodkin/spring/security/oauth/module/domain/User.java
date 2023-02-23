@@ -1,6 +1,6 @@
 package com.bypogodkin.spring.security.oauth.module.domain;
 
-import com.bypogodkin.spring.security.oauth.module.domain.enums.Provider;
+import com.bypogodkin.spring.security.oauth.module.enums.Provider;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

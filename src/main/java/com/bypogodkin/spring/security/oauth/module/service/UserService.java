@@ -2,7 +2,7 @@ package com.bypogodkin.spring.security.oauth.module.service;
 
 
 import com.bypogodkin.spring.security.oauth.module.domain.User;
-import com.bypogodkin.spring.security.oauth.module.domain.enums.Provider;
+import com.bypogodkin.spring.security.oauth.module.enums.Provider;
 import com.bypogodkin.spring.security.oauth.module.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
